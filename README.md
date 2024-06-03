@@ -6,10 +6,10 @@ This project applies reinforcement learning techniques to train an agent to play
 
 ## Team Members
 
-- Member 1
-- Member 2
-- Member 3
-- ...
+- Đinh Thiên Ân-22520010
+- Phạm Hoàng Lê Nguyên-22520982
+- Huỳnh Trọng Nghĩa-22520003
+- Lâm Trần Phúc Hảo-22520398
 
 ## Getting Started
 
